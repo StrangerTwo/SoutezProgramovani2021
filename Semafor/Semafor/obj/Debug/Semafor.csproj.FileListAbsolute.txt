@@ -1,0 +1,15 @@
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\bin\Debug\Semafor.exe.config
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\bin\Debug\Semafor.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\bin\Debug\Semafor.pdb
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.csprojAssemblyReference.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\MainWindow.g.cs
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\App.g.cs
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor_MarkupCompile.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor_MarkupCompile.lref
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\MainWindow.baml
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.g.resources
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.Properties.Resources.resources
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.csproj.GenerateResource.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.csproj.CoreCompileInputs.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\Semafor\Semafor\obj\Debug\Semafor.pdb

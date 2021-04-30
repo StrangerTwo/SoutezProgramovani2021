@@ -1,0 +1,15 @@
+﻿<Window x:Class="Semafor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Semafor"
+        mc:Ignorable="d"
+        Title="Semafor" Height="600" Width="500" Loaded="Window_Loaded">
+    <Grid Background="LightGray">
+        <Ellipse x:Name="svetloCervena" Fill="Red" Height="165" Margin="0,20,0,0" Stroke="Black" Width="165" HorizontalAlignment="Center" VerticalAlignment="Top" StrokeThickness="3"/>
+        <Ellipse x:Name="svetloOranzova" Fill="Orange" Margin="0" Stroke="Black" VerticalAlignment="Center" HorizontalAlignment="Center" Height="165" Width="165" StrokeThickness="3"/>
+        <Ellipse x:Name="svetloZelena" Fill="Green" Margin="0,0,0,20" Stroke="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" Height="165" Width="164" StrokeThickness="3"/>
+
+    </Grid>
+</Window>

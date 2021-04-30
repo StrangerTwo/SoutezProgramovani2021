@@ -1,0 +1,43 @@
+﻿<Window x:Class="Hra2048.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hra2048"
+        mc:Ignorable="d"
+        Title="Hra 2048" Height="810" Width="800" Loaded="Window_Loaded" KeyDown="Window_KeyDown">
+    <Grid>
+        <Grid x:Name="gridik" Height="600" Width="600" VerticalAlignment="Bottom" Margin="0,0,0,10" MouseDown="gridik_MouseDown" MouseUp="gridik_MouseUp">
+
+        </Grid>
+        <Rectangle Fill="#FFF4F4F5" Height="150" Margin="0,10,0,0" Stroke="Black" VerticalAlignment="Top" HorizontalAlignment="Center" Width="150"/>
+        <Button x:Name="btnLeft" Content="&lt;=" Margin="321,70,0,0" VerticalAlignment="Top" HorizontalAlignment="Left" Width="40" Height="40" Click="btnLeft_Click"/>
+        <Button x:Name="btnDown" Content="&lt;=" Margin="326,120,326,0" VerticalAlignment="Top" Height="40" HorizontalAlignment="Center" Width="40" RenderTransformOrigin="0.5,0.5" Click="btnDown_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="-90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Button x:Name="btnRight" Content="=>" Margin="0,70,321,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="40" Height="40" Click="btnRight_Click"/>
+        <Button x:Name="btnUp" Content="&lt;=" Margin="326,10,326,0" VerticalAlignment="Top" Height="40" HorizontalAlignment="Center" Width="40" RenderTransformOrigin="0.5,0.5" Click="btnUp_Click">
+            <Button.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="90"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Button.RenderTransform>
+        </Button>
+        <Label x:Name="lblSkore" Content="Skóre : 0" HorizontalAlignment="Right" Margin="0,70,96,0" VerticalAlignment="Top" FontSize="20"/>
+        <Button x:Name="btnSave" Content="Uložit hru" HorizontalAlignment="Left" Margin="46,28,0,0" VerticalAlignment="Top" Width="100" Height="32" FontSize="16" Click="btnSave_Click"/>
+        <Button x:Name="btnLoad" Content="Načíst hru" HorizontalAlignment="Left" Margin="46,75,0,0" VerticalAlignment="Top" Width="100" Height="32" FontSize="16" Click="btnLoad_Click"/>
+        <Label x:Name="lblWin" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" Background="Transparent" FontSize="48" FontWeight="Bold" Visibility="Hidden">
+            <TextBlock TextAlignment="Center">Vyhrál jsi, dosáhl jsi 2048<LineBreak/>Skóre : 2160</TextBlock>
+        </Label>
+    </Grid>
+</Window>

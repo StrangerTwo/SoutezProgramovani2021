@@ -1,0 +1,15 @@
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\bin\Debug\Hra2048.exe.config
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\bin\Debug\Hra2048.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\bin\Debug\Hra2048.pdb
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.csprojAssemblyReference.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\MainWindow.g.cs
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\App.g.cs
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048_MarkupCompile.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048_MarkupCompile.lref
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\MainWindow.baml
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.g.resources
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.Properties.Resources.resources
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.csproj.GenerateResource.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.csproj.CoreCompileInputs.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\Hra2048\Hra2048\obj\Debug\Hra2048.pdb

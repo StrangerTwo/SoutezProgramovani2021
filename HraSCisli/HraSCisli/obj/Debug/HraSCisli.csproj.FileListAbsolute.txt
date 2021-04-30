@@ -1,0 +1,7 @@
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\bin\Debug\HraSCisli.exe.config
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\bin\Debug\HraSCisli.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\bin\Debug\HraSCisli.pdb
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\obj\Debug\HraSCisli.csprojAssemblyReference.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\obj\Debug\HraSCisli.csproj.CoreCompileInputs.cache
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\obj\Debug\HraSCisli.exe
+D:\Programovani\Uceni\Zadání\programovani 2021\HraSCisli\HraSCisli\obj\Debug\HraSCisli.pdb
